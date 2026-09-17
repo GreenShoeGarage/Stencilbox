@@ -1,0 +1,23 @@
+{
+  "name": "stencilbox",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local-first geometric stencil studio with STL and JSON export.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node tests/geometry.test.js && node tests/rename.test.js",
+    "test:geometry": "node tests/geometry.test.js",
+    "test:compatibility": "node tests/rename.test.js"
+  },
+  "keywords": [
+    "stencil",
+    "generative-art",
+    "3d-printing",
+    "stl",
+    "offline",
+    "local-first"
+  ]
+}

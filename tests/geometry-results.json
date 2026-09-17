@@ -1,0 +1,123 @@
+{
+  "suite": "TRACEFORM geometry regression",
+  "version": "1.0.0",
+  "cases": 224,
+  "failures": [],
+  "patterns": {
+    "scatter": {
+      "cases": 28,
+      "maxMs": 400
+    },
+    "grid": {
+      "cases": 28,
+      "maxMs": 243
+    },
+    "honeycomb": {
+      "cases": 28,
+      "maxMs": 90
+    },
+    "triangles": {
+      "cases": 28,
+      "maxMs": 30
+    },
+    "voronoi": {
+      "cases": 28,
+      "maxMs": 78
+    },
+    "radial": {
+      "cases": 28,
+      "maxMs": 142
+    },
+    "waves": {
+      "cases": 28,
+      "maxMs": 263
+    },
+    "weave": {
+      "cases": 28,
+      "maxMs": 275
+    }
+  },
+  "examples": [
+    {
+      "file": "scatter-study.stl",
+      "holes": 52,
+      "triangles": 7552,
+      "dimensions": [
+        160,
+        120,
+        1.6
+      ]
+    },
+    {
+      "file": "grid-study.stl",
+      "holes": 56,
+      "triangles": 9388,
+      "dimensions": [
+        160,
+        120,
+        1.6
+      ]
+    },
+    {
+      "file": "honeycomb-study.stl",
+      "holes": 40,
+      "triangles": 5164,
+      "dimensions": [
+        160,
+        120,
+        1.6
+      ]
+    },
+    {
+      "file": "triangles-study.stl",
+      "holes": 60,
+      "triangles": 4044,
+      "dimensions": [
+        160,
+        120,
+        1.6
+      ]
+    },
+    {
+      "file": "voronoi-study.stl",
+      "holes": 52,
+      "triangles": 5992,
+      "dimensions": [
+        160,
+        120,
+        1.6
+      ]
+    },
+    {
+      "file": "radial-study.stl",
+      "holes": 81,
+      "triangles": 5692,
+      "dimensions": [
+        150,
+        150,
+        1.6
+      ]
+    },
+    {
+      "file": "waves-study.stl",
+      "holes": 55,
+      "triangles": 11424,
+      "dimensions": [
+        170,
+        100,
+        1.6
+      ]
+    },
+    {
+      "file": "weave-study.stl",
+      "holes": 56,
+      "triangles": 11628,
+      "dimensions": [
+        140,
+        140,
+        1.6
+      ]
+    }
+  ],
+  "inputRejections": 6
+}

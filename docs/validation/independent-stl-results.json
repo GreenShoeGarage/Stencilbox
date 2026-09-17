@@ -1,0 +1,130 @@
+[
+  {
+    "file": "grid-study.stl",
+    "watertight": true,
+    "consistent_winding": true,
+    "positive_volume": true,
+    "components": 1,
+    "triangles": 9388,
+    "dimensions_mm": [
+      160.0,
+      120.0,
+      1.600000023841858
+    ],
+    "volume_mm3": 25219.425222645572,
+    "holes": 56,
+    "planar_geometry_valid": true
+  },
+  {
+    "file": "honeycomb-study.stl",
+    "watertight": true,
+    "consistent_winding": true,
+    "positive_volume": true,
+    "components": 1,
+    "triangles": 5164,
+    "dimensions_mm": [
+      160.0,
+      120.0,
+      1.600000023841858
+    ],
+    "volume_mm3": 18249.272471988086,
+    "holes": 40,
+    "planar_geometry_valid": true
+  },
+  {
+    "file": "radial-study.stl",
+    "watertight": true,
+    "consistent_winding": true,
+    "positive_volume": true,
+    "components": 1,
+    "triangles": 5692,
+    "dimensions_mm": [
+      150.0,
+      150.0,
+      1.600000023841858
+    ],
+    "volume_mm3": 26608.185380271334,
+    "holes": 81,
+    "planar_geometry_valid": true
+  },
+  {
+    "file": "scatter-study.stl",
+    "watertight": true,
+    "consistent_winding": true,
+    "positive_volume": true,
+    "components": 1,
+    "triangles": 7552,
+    "dimensions_mm": [
+      160.0,
+      120.0,
+      1.600000023841858
+    ],
+    "volume_mm3": 26148.38033817665,
+    "holes": 52,
+    "planar_geometry_valid": true
+  },
+  {
+    "file": "triangles-study.stl",
+    "watertight": true,
+    "consistent_winding": true,
+    "positive_volume": true,
+    "components": 1,
+    "triangles": 4044,
+    "dimensions_mm": [
+      160.0,
+      120.0,
+      1.600000023841858
+    ],
+    "volume_mm3": 16910.678717044575,
+    "holes": 60,
+    "planar_geometry_valid": true
+  },
+  {
+    "file": "voronoi-study.stl",
+    "watertight": true,
+    "consistent_winding": true,
+    "positive_volume": true,
+    "components": 1,
+    "triangles": 5992,
+    "dimensions_mm": [
+      160.0,
+      120.0,
+      1.600000023841858
+    ],
+    "volume_mm3": 16096.278209731541,
+    "holes": 52,
+    "planar_geometry_valid": true
+  },
+  {
+    "file": "waves-study.stl",
+    "watertight": true,
+    "consistent_winding": true,
+    "positive_volume": true,
+    "components": 1,
+    "triangles": 11424,
+    "dimensions_mm": [
+      170.0,
+      100.0,
+      1.600000023841858
+    ],
+    "volume_mm3": 22580.64368279488,
+    "holes": 55,
+    "planar_geometry_valid": true
+  },
+  {
+    "file": "weave-study.stl",
+    "watertight": true,
+    "consistent_winding": true,
+    "positive_volume": true,
+    "components": 1,
+    "triangles": 11628,
+    "dimensions_mm": [
+      140.0,
+      140.0,
+      1.600000023841858
+    ],
+    "volume_mm3": 27106.77354424437,
+    "holes": 56,
+    "planar_geometry_valid": true
+  }
+]

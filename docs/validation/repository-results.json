@@ -1,0 +1,10 @@
+{
+  "suite": "STENCILBOX repository checks",
+  "version": "1.0.0",
+  "passed": true,
+  "requiredFiles": 34,
+  "localDocumentationLinks": 18,
+  "externalRuntimeAssets": [],
+  "indexSha256": "880f8830c45a21e1ec37ec134d571ac3fa2b94362310ce3e29c879ae958af472",
+  "errors": []
+}

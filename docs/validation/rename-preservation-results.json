@@ -1,0 +1,20 @@
+{
+  "suite": "STENCILBOX rebrand preservation",
+  "generatorVersion": "1.0.0",
+  "geometryAlgorithmUnchanged": true,
+  "engineChangedLines": [
+    1,
+    85,
+    97,
+    98,
+    100
+  ],
+  "unchangedFiles": [
+    "src/style.css",
+    "src/viewer.js",
+    "vendor/earcut.js",
+    "vendor/EARCUT-LICENSE.txt"
+  ],
+  "sampleSTLsWithByteIdenticalTrianglePayloads": 8,
+  "legacyJSONFixturesRetainedByteForByte": 8
+}

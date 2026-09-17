@@ -1,0 +1,42 @@
+{
+  "suite": "STENCILBOX rename and storage compatibility",
+  "browser": "144.0.7559.96",
+  "passed": 29,
+  "checks": [
+    "Page title uses STENCILBOX",
+    "Visible app brand uses STENCILBOX",
+    "Legacy geometry restores exactly",
+    "Legacy user project title is preserved",
+    "Legacy preferences restore",
+    "Original traceform.project.v1 remains untouched",
+    "New stencilbox.project.v1 is populated",
+    "Original traceform.preferences.v1 remains untouched",
+    "New stencilbox.preferences.v1 is populated",
+    "Original traceform.shelf.v1 remains untouched",
+    "New stencilbox.shelf.v1 is populated",
+    "Original traceform.baseline.v1 remains untouched",
+    "New stencilbox.baseline.v1 is populated",
+    "New autosave format is STENCILBOX",
+    "Legacy hooks remain available",
+    "New JSON exports use STENCILBOX",
+    "Legacy shelf is shown",
+    "Legacy baseline is shown",
+    "Report uses new brand",
+    "Current project takes precedence",
+    "Current preferences take precedence",
+    "Current empty shelf takes precedence",
+    "Current cleared baseline takes precedence",
+    "Legacy geometry usable when migration writes fail",
+    "Failed new autosave asks for JSON backup",
+    "Failed write leaves legacy data intact",
+    "Clean installation saves under new key",
+    "Clean installation does not create legacy keys",
+    "No browser JavaScript errors"
+  ],
+  "errors": [],
+  "limitations": [
+    "Storage adapter tests application copy/precedence logic, not browser-native origin permissions.",
+    "Different-origin storage cannot be copied; use JSON export/import.",
+    "No remote repository or site was changed."
+  ]
+}

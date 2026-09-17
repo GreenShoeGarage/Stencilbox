@@ -1,0 +1,15 @@
+{
+  "suite": "STENCILBOX rename compatibility",
+  "generatorVersion": "1.0.0",
+  "passed": 8,
+  "checks": [
+    "scatter: legacy/current geometry match, title/notes preserved, re-export and validation pass",
+    "grid: legacy/current geometry match, title/notes preserved, re-export and validation pass",
+    "honeycomb: legacy/current geometry match, title/notes preserved, re-export and validation pass",
+    "triangles: legacy/current geometry match, title/notes preserved, re-export and validation pass",
+    "voronoi: legacy/current geometry match, title/notes preserved, re-export and validation pass",
+    "radial: legacy/current geometry match, title/notes preserved, re-export and validation pass",
+    "waves: legacy/current geometry match, title/notes preserved, re-export and validation pass",
+    "weave: legacy/current geometry match, title/notes preserved, re-export and validation pass"
+  ]
+}
