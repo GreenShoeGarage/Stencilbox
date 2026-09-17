@@ -14,7 +14,7 @@ The app is already built. Keep this folder's contents at the repository root, in
 
 CI checks the app and test suites on pushes and pull requests. Optional **Deploy GitHub Pages** runs manually after enabling Pages with **Source: GitHub Actions**; it publishes only the app and license notices, after tests pass. Automatic Pages deployment is an opt-in documented in the workflow.
 
-**STENCILBOX is the new name for TRACEFORM.** This release updates app branding, repository metadata, export labels, examples, and screenshots. The geometry algorithm and generator version remain **1.0.0**, so existing designs regenerate without changing their contours. It is a rebrand, not a new generator release. See [rename and compatibility notes](docs/RENAMING.md).
+This release updates app branding, repository metadata, export labels, examples, and screenshots. The geometry algorithm and generator version remain **1.0.0**, so existing designs regenerate without changing their contours. It is a rebrand, not a new generator release. See [rename and compatibility notes](docs/RENAMING.md).
 
 ## Start here
 
